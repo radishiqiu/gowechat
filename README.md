@@ -8,9 +8,6 @@
 #### Download and install
     go get github.com/radishqiu/gowechat
 
-#### fork项目要在go.mod里面替换源
-    replace github.com/radishqiu/gowechat@版本号 => ../github.com/radishqiu/gowechat@版本号
-
 #### Run examples
     cd ./examples/beego
     go run beego.go
