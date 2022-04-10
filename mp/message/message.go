@@ -79,6 +79,9 @@ type MixMessage struct {
 	Description  string  `xml:"Description"`
 	URL          string  `xml:"Url"`
 
+	// 语音识别
+	Recognition string `xml:"Recognition"`
+
 	//事件相关
 	Event     EventType `xml:"Event"`
 	EventKey  string    `xml:"EventKey"`
