@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yaotian/gowechat/util"
-	"github.com/yaotian/gowechat/wxcontext"
+	"github.com/radishqiu/gowechat/util"
+	"github.com/radishqiu/gowechat/wxcontext"
 )
 
 const getTicketURL = "https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=%s&type=jsapi"

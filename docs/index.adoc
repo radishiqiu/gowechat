@@ -11,13 +11,13 @@ image::img/GoWechat_overview.png[]
 
 适用范围：可以与各种平台无缝整合，beego, gin, http （example目录提供完整的使用例子）
 
-开源地址：[Github地址](https://github.com/yaotian/gowechat)
+开源地址：[Github地址](https://github.com/radishqiu/gowechat)
 
-GoDoc: [GoDoc地址](https://godoc.org/github.com/yaotian/gowechat)
+GoDoc: [GoDoc地址](https://godoc.org/github.com/radishqiu/gowechat)
 
 [[install,安装]]
 === 安装
-  go get github.com/yaotian/gowechat
+  go get github.com/radishqiu/gowechat
 
 [[use,使用]]
 === 配置
